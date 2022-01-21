@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Block Run1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Block Run.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
